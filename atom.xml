@@ -4,7 +4,7 @@
   <title><![CDATA[Sealook' Blog]]></title>
   <link href="http://sealook.github.com/wine/atom.xml" rel="self"/>
   <link href="http://sealook.github.com/wine/"/>
-  <updated>2013-01-07T21:35:05+08:00</updated>
+  <updated>2013-01-07T21:37:03+08:00</updated>
   <id>http://sealook.github.com/wine/</id>
   <author>
     <name><![CDATA[sealook]]></name>
@@ -33,9 +33,9 @@ title: &#8220;second post&#8221;
 date: 2013-01-07 21:30
 comments: true</p>
 
-<h2>categories: </h2>
+<h2>categories: Test</h2>
 
-<p>试试中文</p>
+<p>测试中文</p>
 ]]></content>
   </entry>
   
