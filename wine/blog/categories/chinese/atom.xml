@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: chinese | Sealook' Blog]]></title>
+  <link href="http://sealook.github.com/wine/wine/blog/categories/chinese/atom.xml" rel="self"/>
+  <link href="http://sealook.github.com/wine/"/>
+  <updated>2013-01-07T22:23:14+08:00</updated>
+  <id>http://sealook.github.com/wine/</id>
+  <author>
+    <name><![CDATA[sealook]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[third]]></title>
+    <link href="http://sealook.github.com/wine/blog/2013/01/07/third/"/>
+    <updated>2013-01-07T22:03:00+08:00</updated>
+    <id>http://sealook.github.com/wine/blog/2013/01/07/third</id>
+    <content type="html"><![CDATA[<p>中文</p>
+]]></content>
+  </entry>
+  
+</feed>
