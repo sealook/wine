@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Octopress | Sealook' Blog]]></title>
-  <link href="http://sealook.github.com/wine//wine/categories/octopress/atom.xml" rel="self"/>
+  <link href="http://sealook.github.com/wine//blog/categories/octopress/atom.xml" rel="self"/>
   <link href="http://sealook.github.com/wine/"/>
-  <updated>2013-01-07T23:36:04+08:00</updated>
+  <updated>2013-01-07T23:37:26+08:00</updated>
   <id>http://sealook.github.com/wine/</id>
   <author>
     <name><![CDATA[sealook]]></name>
