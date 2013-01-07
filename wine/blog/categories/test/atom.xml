@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Test | Sealook' Blog]]></title>
   <link href="http://sealook.github.com/wine/wine/blog/categories/test/atom.xml" rel="self"/>
   <link href="http://sealook.github.com/wine/"/>
-  <updated>2013-01-07T21:14:51+08:00</updated>
+  <updated>2013-01-07T21:28:26+08:00</updated>
   <id>http://sealook.github.com/wine/</id>
   <author>
     <name><![CDATA[sealook]]></name>
@@ -12,15 +12,6 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[second-post]]></title>
-    <link href="http://sealook.github.com/wine/blog/2013/01/07/second-post/"/>
-    <updated>2013-01-07T20:55:00+08:00</updated>
-    <id>http://sealook.github.com/wine/blog/2013/01/07/second-post</id>
-    <content type="html"><![CDATA[<p> ‘ ‘÷–</p>
-]]></content>
-  </entry>
   
   <entry>
     <title type="html"><![CDATA[First post]]></title>
