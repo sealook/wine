@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Test | My Octopress Blog]]></title>
+  <title><![CDATA[Category: Test | Sealook' blog]]></title>
   <link href="http://sealook.github.com/wine/wine/blog/categories/test/atom.xml" rel="self"/>
   <link href="http://sealook.github.com/wine/"/>
-  <updated>2013-01-07T19:28:06+08:00</updated>
+  <updated>2013-01-07T19:34:51+08:00</updated>
   <id>http://sealook.github.com/wine/</id>
   <author>
     <name><![CDATA[sealook]]></name>
