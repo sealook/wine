@@ -107,6 +107,58 @@
       
   <header>
     
+      <h1 class="entry-title"><a href="/wine/blog/2013/01/07/chinese-coding/">Octopress 中文编码问题</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2013-01-07T22:03:00+08:00" pubdate data-updated="true">Jan 7<span>th</span>, 2013</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>费了好大劲儿在win7系统下用Octopress搭建好博客（<a href="http://chenzhiwei.net/2012/07/07/this-is-the-first-article/">鸣谢</a>），欢欢喜喜写了po，中文竟然是乱码。试了修改环境变量：</p>
+
+<blockquote><p>LC_ALL=zh_CN.UTF-8</p>
+
+<p>LANG=zh_CN.UTF-8</p></blockquote>
+
+<p>不成功，问google，把<a href="http://ruby-taiwan.org/topics/46">帖子</a>中的方法试了一遍均不奏效（值得试一下，有成功案例）。</p>
+
+<p>继续找，直到翻出v2ex上的<a href="http://www.v2ex.com/t/26027">一帖</a>，回复中有人提到：</p>
+
+<blockquote><p>1，markdown文件如果出现了中文请另存为UTF-8格式且去掉BOM头。</p>
+
+<p>2, yaml的冒号后要有空格。</p>
+
+<p>3, 把设置环境变量里的zh_CN改成en_US</p></blockquote>
+
+<p>照单设置，解决问题。</p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
       <h1 class="entry-title"><a href="/wine/blog/2013/01/07/chinse/">Chinse</a></h1>
     
     
@@ -191,6 +243,10 @@
       </li>
     
       <li class="post">
+        <a href="/wine/blog/2013/01/07/chinese-coding/">Octopress 中文编码问题</a>
+      </li>
+    
+      <li class="post">
         <a href="/wine/blog/2013/01/07/chinse/">chinse</a>
       </li>
     
@@ -204,7 +260,7 @@
 	<h1>Categories</h1>
 	<ul id="categories">
 	<li class='category'><a href='http://sealook.github.com/wine/wine/blog/categories/Test/'>Test (2)</a></li>
-<li class='category'><a href='http://sealook.github.com/wine/wine/blog/categories/chinese/'>chinese (1)</a></li>
+<li class='category'><a href='http://sealook.github.com/wine/wine/blog/categories/chinese/'>chinese (2)</a></li>
 
 	</ul>
 </section>
