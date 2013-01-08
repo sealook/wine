@@ -17,7 +17,7 @@ description:
 date_format: "ordinal"
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
-subscribe_rss: /blog/atom.xml
+subscribe_rss: /wine/atom.xml
 subscribe_email:
 # RSS feeds can list your email address if you like
 email:
@@ -33,7 +33,7 @@ source: source
 destination: public/wine
 plugins: plugins
 code_dir: downloads/code
-category_dir: wine/blog/categories
+category_dir: /blog/categories
 markdown: rdiscount
 pygments: false # default python pygments have been replaced by pygments.rb
 
@@ -59,13 +59,13 @@ default_asides: [asides/recent_posts.html, asides/categories.html, asides/github
 # ----------------------- #
 
 # Github repositories
-github_user:
+github_user: sealook
 github_repo_count: 0
 github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user:
+twitter_user: sealook
 twitter_tweet_count: 4
 twitter_show_replies: false
 twitter_follow_button: true
@@ -90,8 +90,8 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name:
-disqus_show_comment_count: false
+disqus_short_name: sealook
+disqus_show_comment_count: true
 
 # Google Analytics
 google_analytics_tracking_id:
