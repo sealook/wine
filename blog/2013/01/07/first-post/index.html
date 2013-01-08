@@ -86,6 +86,8 @@
 
 <time datetime="2013-01-07T19:00:00+08:00" pubdate data-updated="true">Jan 7<span>th</span>, 2013</time>
         
+         | <a href="#disqus_thread">Comments</a>
+        
       </p>
     
   </header>
@@ -128,7 +130,7 @@
     
       <div class="sharing">
   
-  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://sealook.github.com/wine/blog/2013/01/07/first-post/" data-via="" data-counturl="http://sealook.github.com/wine/blog/2013/01/07/first-post/" >Tweet</a>
+  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://sealook.github.com/wine/blog/2013/01/07/first-post/" data-via="sealook" data-counturl="http://sealook.github.com/wine/blog/2013/01/07/first-post/" >Tweet</a>
   
   
   
@@ -143,6 +145,12 @@
     </p>
   </footer>
 </article>
+
+  <section>
+    <h1>Comments</h1>
+    <div id="disqus_thread" aria-live="polite"><noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+  </section>
 
 </div>
 
@@ -171,6 +179,51 @@
 	</ul>
 </section>
 
+<section>
+  <h1>GitHub Repos</h1>
+  <ul id="gh_repos">
+    <li class="loading">Status updating...</li>
+  </ul>
+  
+  <a href="https://github.com/sealook">@sealook</a> on GitHub
+  
+  <script type="text/javascript">
+    $.domReady(function(){
+        if (!window.jXHR){
+            var jxhr = document.createElement('script');
+            jxhr.type = 'text/javascript';
+            jxhr.src = '/javascripts/libs/jXHR.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(jxhr, s);
+        }
+
+        github.showRepos({
+            user: 'sealook',
+            count: 0,
+            skip_forks: true,
+            target: '#gh_repos'
+        });
+    });
+  </script>
+  <script src="/wine/javascripts/github.js" type="text/javascript"> </script>
+</section>
+
+
+<section>
+  <h1>Latest Tweets</h1>
+  <ul id="tweets">
+    <li class="loading">Status updating...</li>
+  </ul>
+  <script type="text/javascript">
+    $.domReady(function(){
+      getTwitterFeed("sealook", 4, false);
+    });
+  </script>
+  <script src="/wine/javascripts/twitter.js" type="text/javascript"> </script>
+  
+    <a href="http://twitter.com/sealook" class="twitter-follow-button" data-show-count="false">Follow @sealook</a>
+  
+</section>
 
 
 
@@ -189,6 +242,22 @@
 
 </footer>
   
+
+<script type="text/javascript">
+      var disqus_shortname = 'sealook';
+      
+        
+        // var disqus_developer = 1;
+        var disqus_identifier = 'http://sealook.github.com/wine/blog/2013/01/07/first-post/';
+        var disqus_url = 'http://sealook.github.com/wine/blog/2013/01/07/first-post/';
+        var disqus_script = 'embed.js';
+      
+    (function () {
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = 'http://' + disqus_shortname + '.disqus.com/' + disqus_script;
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    }());
+</script>
 
 
 
