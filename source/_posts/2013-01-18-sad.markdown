@@ -1,0 +1,9 @@
+---
+layout: post
+title: "github二级域名不能访问了"
+date: 2013-01-07 22:03
+comments: true
+categories: 闲扯
+---
+
+×××.github.com搭建的博客好像挂掉了。
