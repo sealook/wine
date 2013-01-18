@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: 闲扯 | Sealook' Blog]]></title>
+  <link href="http://sealook.github.com/wine//blog/categories/闲扯/atom.xml" rel="self"/>
+  <link href="http://sealook.github.com/wine/"/>
+  <updated>2013-01-18T16:45:33+08:00</updated>
+  <id>http://sealook.github.com/wine/</id>
+  <author>
+    <name><![CDATA[sealook]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[github二级域名不能访问了]]></title>
+    <link href="http://sealook.github.com/wine/blog/2013/01/07/sad/"/>
+    <updated>2013-01-07T22:03:00+08:00</updated>
+    <id>http://sealook.github.com/wine/blog/2013/01/07/sad</id>
+    <content type="html"><![CDATA[<p>×××.github.com搭建的博客好像挂掉了。</p>
+]]></content>
+  </entry>
+  
+</feed>
