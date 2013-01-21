@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: 测试 | Sealook' Blog]]></title>
-  <link href="http://sealook.github.com/wine//blog/categories/测试/atom.xml" rel="self"/>
-  <link href="http://sealook.github.com/wine/"/>
-  <updated>2013-01-20T16:59:03+08:00</updated>
-  <id>http://sealook.github.com/wine/</id>
+  <link href="http://look618.com/wine//blog/categories/测试/atom.xml" rel="self"/>
+  <link href="http://look618.com/wine/"/>
+  <updated>2013-01-21T09:00:48+08:00</updated>
+  <id>http://look618.com/wine/</id>
   <author>
     <name><![CDATA[sealook]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[First post]]></title>
-    <link href="http://sealook.github.com/wine/blog/2013/01/07/first-post/"/>
+    <link href="http://look618.com/wine/blog/2013/01/07/first-post/"/>
     <updated>2013-01-07T19:00:00+08:00</updated>
-    <id>http://sealook.github.com/wine/blog/2013/01/07/first-post</id>
+    <id>http://look618.com/wine/blog/2013/01/07/first-post</id>
     <content type="html"><![CDATA[<p>This is my First post</p>
 ]]></content>
   </entry>

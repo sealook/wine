@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Sealook' Blog]]></title>
-  <link href="http://sealook.github.com/wine/atom.xml" rel="self"/>
-  <link href="http://sealook.github.com/wine/"/>
-  <updated>2013-01-20T16:59:03+08:00</updated>
-  <id>http://sealook.github.com/wine/</id>
+  <link href="http://look618.com/wine/atom.xml" rel="self"/>
+  <link href="http://look618.com/wine/"/>
+  <updated>2013-01-21T09:00:48+08:00</updated>
+  <id>http://look618.com/wine/</id>
   <author>
     <name><![CDATA[sealook]]></name>
     
@@ -15,18 +15,18 @@
   
   <entry>
     <title type="html"><![CDATA[github二级域名不能访问了]]></title>
-    <link href="http://sealook.github.com/wine/blog/2013/01/07/sad/"/>
+    <link href="http://look618.com/wine/blog/2013/01/07/sad/"/>
     <updated>2013-01-07T22:03:00+08:00</updated>
-    <id>http://sealook.github.com/wine/blog/2013/01/07/sad</id>
+    <id>http://look618.com/wine/blog/2013/01/07/sad</id>
     <content type="html"><![CDATA[<p>×××.github.com搭建的博客好像挂掉了。</p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Octopress 中文编码问题]]></title>
-    <link href="http://sealook.github.com/wine/blog/2013/01/07/chinese-coding/"/>
+    <link href="http://look618.com/wine/blog/2013/01/07/chinese-coding/"/>
     <updated>2013-01-07T22:03:00+08:00</updated>
-    <id>http://sealook.github.com/wine/blog/2013/01/07/chinese-coding</id>
+    <id>http://look618.com/wine/blog/2013/01/07/chinese-coding</id>
     <content type="html"><![CDATA[<p>费了好大劲儿在win7系统下用Octopress搭建好博客（<a href="http://chenzhiwei.net/2012/07/07/this-is-the-first-article/">鸣谢</a>），欢欢喜喜写了po，中文竟然是乱码。试了修改环境变量：</p>
 
 <blockquote><p>LC_ALL=zh_CN.UTF-8</p>
@@ -49,9 +49,9 @@
   
   <entry>
     <title type="html"><![CDATA[First post]]></title>
-    <link href="http://sealook.github.com/wine/blog/2013/01/07/first-post/"/>
+    <link href="http://look618.com/wine/blog/2013/01/07/first-post/"/>
     <updated>2013-01-07T19:00:00+08:00</updated>
-    <id>http://sealook.github.com/wine/blog/2013/01/07/first-post</id>
+    <id>http://look618.com/wine/blog/2013/01/07/first-post</id>
     <content type="html"><![CDATA[<p>This is my First post</p>
 ]]></content>
   </entry>
