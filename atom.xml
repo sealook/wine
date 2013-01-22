@@ -4,7 +4,7 @@
   <title><![CDATA[Sealook' Blog]]></title>
   <link href="http://look618.com/wine/atom.xml" rel="self"/>
   <link href="http://look618.com/wine/"/>
-  <updated>2013-01-22T18:00:32+08:00</updated>
+  <updated>2013-01-22T21:29:41+08:00</updated>
   <id>http://look618.com/wine/</id>
   <author>
     <name><![CDATA[sealook]]></name>
@@ -12,6 +12,22 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[测试加亮]]></title>
+    <link href="http://look618.com/wine/blog/2013/01/22/highlight-test/"/>
+    <updated>2013-01-22T21:03:00+08:00</updated>
+    <id>http://look618.com/wine/blog/2013/01/22/highlight-test</id>
+    <content type="html"><![CDATA[<p>测试加亮功能：</p>
+
+<div>
+  <pre><code class='c'>亮了吗？</code></pre>
+</div>
+
+
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[github二级域名不能访问了]]></title>
