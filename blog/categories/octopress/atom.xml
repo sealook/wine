@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Octopress | Sealook' Blog]]></title>
   <link href="http://look618.com/wine//blog/categories/octopress/atom.xml" rel="self"/>
   <link href="http://look618.com/wine/"/>
-  <updated>2013-01-22T21:32:11+08:00</updated>
+  <updated>2013-01-22T21:53:12+08:00</updated>
   <id>http://look618.com/wine/</id>
   <author>
     <name><![CDATA[sealook]]></name>
@@ -20,7 +20,7 @@
     <id>http://look618.com/wine/blog/2013/01/22/highlight-test</id>
     <content type="html"><![CDATA[<p>测试加亮功能：
 <div>
-  <pre><code class='c'>亮了吗？
+  <pre><code class='c'>亮了吗？ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
 显示正常吗？</code></pre>
 </div>
 </p>
