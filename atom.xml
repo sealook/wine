@@ -4,7 +4,7 @@
   <title><![CDATA[Sealook' Blog]]></title>
   <link href="http://look618.com/wine/atom.xml" rel="self"/>
   <link href="http://look618.com/wine/"/>
-  <updated>2013-01-22T21:53:12+08:00</updated>
+  <updated>2013-01-22T21:58:12+08:00</updated>
   <id>http://look618.com/wine/</id>
   <author>
     <name><![CDATA[sealook]]></name>
@@ -21,7 +21,7 @@
     <content type="html"><![CDATA[<p>测试加亮功能：</p>
 
 <div>
-  <pre><code class='c'>亮了吗？ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
+  <pre><code class='c'>亮了吗？
 显示正常吗？</code></pre>
 </div>
 
