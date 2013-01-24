@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: test | Sealook' Blog]]></title>
+  <link href="http://look618.com/wine//blog/categories/test/atom.xml" rel="self"/>
+  <link href="http://look618.com/wine/"/>
+  <updated>2013-01-24T22:01:09+08:00</updated>
+  <id>http://look618.com/wine/</id>
+  <author>
+    <name><![CDATA[sealook]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[图]]></title>
+    <link href="http://look618.com/wine/blog/2013/01/24/pic/"/>
+    <updated>2013-01-24T00:00:00+08:00</updated>
+    <id>http://look618.com/wine/blog/2013/01/24/pic</id>
+    <content type="html"><![CDATA[<p><img src="http://ww4.sinaimg.cn/mw690/8d363888jw1dvw4nfj2vsj.jpg" title="line" alt="lok" /></p>
+]]></content>
+  </entry>
+  
+</feed>
